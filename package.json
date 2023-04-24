@@ -85,7 +85,6 @@
     "prop-types": "15.7.2",
     "raw-loader": "4.0.1",
     "redis": "3.0.2",
-    "showdown": "^1.9.0",
     "slugify": "1.4.5",
     "snapsvg": "0.5.1",
     "stream-analytics": "3.1.0",
