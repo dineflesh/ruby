@@ -84,7 +84,7 @@
     "prettier": "1.16.4",
     "prop-types": "15.7.2",
     "raw-loader": "4.0.1",
-    "redis": "3.0.2",
+    "redis": "3.1.1",
     "slugify": "1.4.5",
     "snapsvg": "0.5.1",
     "stream-analytics": "3.1.0",
